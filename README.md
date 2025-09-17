@@ -31,10 +31,10 @@ This project allows users to create, manage, and track tickets efficiently throu
 
 ## 📂 Project Structure
 ticket-management-system/
-│── index.html        # Main HTML file
-│── style.css         # Styling
-│── script.js         # Functionality
-│── README.md         # Project documentation
+- index.html        # Main HTML file
+- style.css         # Styling
+- script.js         # Functionality
+- README.md         # Project documentation
 
 <img width="1919" height="1015" alt="Screenshot 2025-09-17 092638" src="https://github.com/user-attachments/assets/985a75a9-6fde-4052-802e-29e65ffe0db5" />
 <img width="1919" height="1017" alt="Screenshot 2025-09-17 093050" src="https://github.com/user-attachments/assets/6e3aee93-9920-4e79-972d-0280e3481775" />
